@@ -18,3 +18,11 @@ C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\refin
 C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\PrimalEditor.pdb
 C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\PrimalEditor.genruntimeconfig.cache
 C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\ref\PrimalEditor.dll
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\GameProject\ProjectBrowserDialog.g.cs
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\GameProject\ProjectBrowserDialog.baml
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\PrimalEditor.sourcelink.json
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\GameProject\CreateProjectView.g.cs
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\GameProject\OpenProjectView.g.cs
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\GameProject\CreateProjectView.baml
+C:\Users\david\Documents\Code\Primal\PrimalEditor\obj\Debug\net9.0-windows\GameProject\OpenProjectView.baml

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\david\Documents\Code\Primal\PrimalEditor\App.xaml
-11407045341
+41860297331
 
-41195012434
+7-115678282
 200161758370
-MainWindow.xaml;
+GameProject\CreateProjectView.xaml;GameProject\OpenProjectView.xaml;GameProject\ProjectBrowserDialog.xaml;MainWindow.xaml;
 
 False
 
